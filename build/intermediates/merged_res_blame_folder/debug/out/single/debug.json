@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_startup.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\startup.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\menu_newsdetail.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\menu\\newsdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_india.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\india.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_differentiation.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\differentiation.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_in.webp.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\in.webp"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progress.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bookmark_24.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_splashscreen.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\layout-v26\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\xml_slide_up.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\xml\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashscreen.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_unnamed.jpg.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\unnamed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_trophy.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_politician.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\politician.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_transaction.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\transaction.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_popcorn.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rgb.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\rgb.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_container.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\layout\\item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_earth.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_networking.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\networking.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_atom.png.flat",
+        "source": "C:\\Users\\ragha\\AndroidStudioProjects\\app\\src\\main\\res\\drawable-v24\\atom.png"
+    }
+]

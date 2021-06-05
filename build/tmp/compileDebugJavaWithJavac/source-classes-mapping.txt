@@ -1,0 +1,27 @@
+com/example/newsapp/News.java
+ com.example.newsapp.News
+com/example/newsapp/ViewPageAdapter.java
+ com.example.newsapp.ViewPageAdapter
+ com.example.newsapp.ViewPageAdapter$1
+ com.example.newsapp.ViewPageAdapter$2
+ com.example.newsapp.ViewPageAdapter$3
+ com.example.newsapp.ViewPageAdapter$4
+ com.example.newsapp.ViewPageAdapter$5
+ com.example.newsapp.ViewPageAdapter$6
+ com.example.newsapp.ViewPageAdapter$7
+com/example/newsapp/VerticalViewPager.java
+ com.example.newsapp.VerticalViewPager
+ com.example.newsapp.VerticalViewPager$1
+ com.example.newsapp.VerticalViewPager$VerticalPageTransformer
+com/example/newsapp/SplashScreen.java
+ com.example.newsapp.SplashScreen
+com/example/newsapp/NewsDetailActivity.java
+ com.example.newsapp.NewsDetailActivity
+ com.example.newsapp.NewsDetailActivity$1
+ com.example.newsapp.NewsDetailActivity$HelpClient
+com/example/newsapp/BuildConfig.java
+ com.example.newsapp.BuildConfig
+com/example/newsapp/MainActivity.java
+ com.example.newsapp.MainActivity
+ com.example.newsapp.MainActivity$1
+ com.example.newsapp.MainActivity$2
