@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/grey"
+    tools:context=".SplashScreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:gravity="left"
+            android:text="Suggested Topic"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/silver"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/first"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/heading"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+
+            >
+
+            <com.google.android.material.imageview.ShapeableImageView
+
+                android:id="@+id/one"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/india"
+
+                android:tag="1"
+                android:tooltipText="@string/a1"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp"
+
+
+                >
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/two"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/trophy"
+                android:tag="2"
+                android:tooltipText="@string/a2"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/three"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="7dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+
+                android:src="@drawable/networking"
+                android:tag="3"
+                android:tooltipText="@string/a3"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/second"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/first"
+            android:layout_marginTop="30dp"
+
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+
+                android:id="@+id/four"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/transaction"
+                android:tag="4"
+                android:tooltipText="@string/a4"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/five"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/politician"
+                android:tag="5"
+                android:tooltipText="@string/a5"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/six"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/popcorn"
+                android:tag="6"
+                android:tooltipText="@string/a6"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/third"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/second"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal"
+
+            android:padding="10dp">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+
+                android:id="@+id/seven"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/atom"
+                android:tag="7"
+                android:tooltipText="@string/a7"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/eight"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/earth"
+                android:tag="8"
+                android:tooltipText="@string/a8"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/nine"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/car"
+                android:tag="9"
+                android:tooltipText="@string/a9"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fourth"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/third"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal"
+
+            android:padding="10dp">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+
+                android:id="@+id/ten"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/startup"
+                android:tag="10"
+                android:tooltipText="@string/a10"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/eleven"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/rgb"
+                android:tag="11"
+                android:tooltipText="@string/a11"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/twelve"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_margin="7dp"
+                android:background="@drawable/ripple_effect"
+                android:elevation="20dp"
+                android:onClick="main"
+                android:src="@drawable/differentiation"
+                android:tag="12"
+                android:tooltipText="@string/a12"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                app:strokeColor="#00BdC4"
+
+                app:strokeWidth="2dp">
+
+            </com.google.android.material.imageview.ShapeableImageView>
+
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

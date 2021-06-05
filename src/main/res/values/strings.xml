@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="a1">India</string>
+    <string name="a2">Sports</string>
+    <string name="a3">Technology</string>
+    <string name="a4">Business</string>
+    <string name="a5">Politics</string>
+    <string name="a6">Entertainment</string>
+    <string name="a7">Science</string>
+    <string name="a8">world</string>
+    <string name="a9">Automobile</string>
+    <string name="a10">Startup</string>
+    <string name="a11">Miscellaneous</string>
+    <string name="a12">Hatke</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="tap_here_to_read_more">Tap here to read more</string>
+    <string name="share">Share</string>
+    <string name="my_action_bar">My Action bar</string>
+    <string name="short1">short</string>
+
+</resources>
